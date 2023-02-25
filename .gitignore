@@ -2,6 +2,10 @@
 
 # pocketbase database
 /pb_data
+/pb_migrations
+
+# visual studio code
+/.vscode
 
 # dependencies
 /node_modules
